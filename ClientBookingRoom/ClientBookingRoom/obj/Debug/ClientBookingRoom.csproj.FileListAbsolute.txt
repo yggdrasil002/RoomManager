@@ -1,0 +1,15 @@
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\bin\Debug\ClientBookingRoom.exe.config
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\bin\Debug\ClientBookingRoom.exe
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\bin\Debug\ClientBookingRoom.pdb
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.csproj.AssemblyReference.cache
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.ForgotPassword.resources
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.Login.resources
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.Properties.Resources.resources
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.csproj.GenerateResource.cache
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.csproj.CoreCompileInputs.cache
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.exe
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.pdb
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.MainForm.resources
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.RoomDetails.resources
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.ChangePassword.resources
+C:\Users\qmh18\Documents\HK2-NAM3\NT109\RoomManager\SourceCode\ClientBookingRoom\ClientBookingRoom\obj\Debug\ClientBookingRoom.EditRoom.resources
